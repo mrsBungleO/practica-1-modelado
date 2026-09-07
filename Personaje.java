@@ -13,7 +13,7 @@ public abstract class Personaje{
         this.nombre= nombre;
         this.franquicia= franquicia;
         this.poderes= new ArrayList<>();
-        this.poderEquipado= new Tupla<>(new ObjetoEspecial(), new PoderNulo());
+        this.poderEquipado= new Tupla<>(new ObjetoEspecial("ningun objeto equipado"), new PoderNulo());
         this.vida= vida;
     }
 

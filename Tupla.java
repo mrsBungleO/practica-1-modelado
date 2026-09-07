@@ -15,4 +15,12 @@ public class Tupla<A,B>{
         return this.elemento2;
     }
 
+    public void setElemento1(A nuevoElemento){
+        this.elemento1=nuevoElemento;
+    }
+
+    public void setElemento2(B nuevoElemento){
+        this.elemento2=nuevoElemento;
+    }
+
 }

@@ -7,6 +7,6 @@ public class ObjetoEspecial{
     }
 
     public String getNombre(){
-        return this.nombre
+        return this.nombre;
     }
 }
