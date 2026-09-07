@@ -45,6 +45,33 @@ public abstract class Personaje{
         this.vida=vida;
     }
 
+    public void danioAEnemigo(Personaje enemigo){
+        int ataquePropio= this.getPoderEquipado().getElemento2().getAtaque();
+        int defensaEnemigo= enemigo.getPoderEquipado().getElemento2().getDefensa();
+        
+        int danio= ataquePropio - defensaEnemigo;
+
+        if(danio<0){
+            danio=0;
+        }
+
+        int vidaEnemigo= enemigo.getVida() - danio;
+
+        if(vidaEnemigo<0){
+            vidaEnemigo=0;
+        }
+
+        enemigo.setVida(vidaEnemigo);
+        
+
+        System.out.println("\n" + this.getNombre() + " tomó " + this.getPoderEquipado().getElemento1() + ".");
+        System.out.println("Ahora " + this.getNombre() + " tiene " + this.getPoderEquipado().getElemento2().getDescripcion() + ".");
+        System.out.println(enemigo.getNombre() + " recibió un ataque de " + this.getNombre() + ".");
+        System.out.println(enemigo.getNombre() + " obtuvo un daño de " + danio + ". Le queda " + enemigo.getVida() + " de vida.\n");
+
+    }
+
+    
     
 
 }

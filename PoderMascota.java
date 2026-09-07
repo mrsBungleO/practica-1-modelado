@@ -1,4 +1,7 @@
 public class PoderMascota implements Poder{
+    
+    public final String DESCRIPCION= "poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan "+ 
+    "atacar a su amo.";
     public final int ATAQUE=20;
     public final int DEFENSA=15;
 
@@ -7,12 +10,23 @@ public class PoderMascota implements Poder{
     }
 
     @Override
-    public void atacar(Personaje enemigo){
-        //todo
+    public String getDescripcion(){
+        return DESCRIPCION;
     }
 
     @Override
-    public void defender(Personaje enemigo){
-        //todo
+    public int getDefensa(){
+        return DEFENSA;
     }
+
+    @Override
+    public int getAtaque(){
+        return ATAQUE;
+    }
+
+    @Override
+    public void atacar(Personaje personaje, Personaje enemigo){
+        personaje.danioAEnemigo(enemigo);
+    }
+
 }

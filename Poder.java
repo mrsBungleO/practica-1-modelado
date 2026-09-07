@@ -1,7 +1,11 @@
 public interface Poder{
 
-    public void atacar(Personaje enemigo);
+    public String getDescripcion();
     
-    public void defender(Personaje enemigo);
+    public int getDefensa();
+
+    public int getAtaque();
+    
+    public void atacar(Personaje personaje, Personaje enemigo);
     
 }

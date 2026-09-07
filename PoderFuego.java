@@ -1,5 +1,6 @@
 public class PoderFuego implements Poder{
     
+    public final String DESCRIPCION= "poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.";
     public final int ATAQUE=25;
     public final int DEFENSA=0;
 
@@ -8,13 +9,26 @@ public class PoderFuego implements Poder{
     }
 
     @Override
-    public void atacar(Personaje enemigo){
-        //TODO
+    public String getDescripcion(){
+        return DESCRIPCION;
+    }
+    
+
+    @Override
+    public int getDefensa(){
+        return DEFENSA;
     }
 
     @Override
-    public void defender(Personaje enemigo){
-        //TODO
+    public int getAtaque(){
+        return ATAQUE;
     }
+
+    @Override
+    public void atacar(Personaje personaje,Personaje enemigo){
+        personaje.danioAEnemigo(enemigo);
+
+    }
+
 
 }
