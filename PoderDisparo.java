@@ -25,8 +25,8 @@ public class PoderDisparo implements Poder{
     }
 
     @Override
-    public void atacar(Personaje personaje, Personaje enemigo){
-        personaje.danioAEnemigo(enemigo);
+    public void atacar(Personaje enemigo){
+        System.out.println("¡MeganMan tira balazos locos a " + enemigo.getNombre() + "!");
     }
 
 }

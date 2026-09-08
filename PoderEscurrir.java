@@ -2,7 +2,7 @@ public class PoderEscurrir implements Poder{
 
     public final String DESCRIPCION= "poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus " +
     "enemigos atacarlo.";
-    public final int ATAQUE= 0;
+    public final int ATAQUE= 10;
     public final int DEFENSA= 25;
 
     public PoderEscurrir(){
@@ -25,8 +25,8 @@ public class PoderEscurrir implements Poder{
     }
 
     @Override
-    public void atacar(Personaje personaje, Personaje enemigo){
-        personaje.danioAEnemigo(enemigo);
+    public void atacar(Personaje enemigo){
+        System.out.println("¡Dittu esquiva que esquiva y tira golpes a " + enemigo.getNombre() + "!");
     }
 
 }

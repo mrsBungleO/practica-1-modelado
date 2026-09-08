@@ -25,8 +25,8 @@ public class PoderMascota implements Poder{
     }
 
     @Override
-    public void atacar(Personaje personaje, Personaje enemigo){
-        personaje.danioAEnemigo(enemigo);
+    public void atacar(Personaje enemigo){
+        System.out.println("¡MeganMan manda a Robolais a que muerda a " + enemigo.getNombre() + "!");
     }
 
 }

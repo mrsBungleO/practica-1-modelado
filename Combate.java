@@ -35,6 +35,21 @@ public class Combate implements Sujeto {
     }
 
     /**
+     * Condensa toda la logica de un ataque y elimina de la lista de peleadores
+     * al personaje que recibe el daño si su vida se termina durante ese ataque.
+     * 
+     * @param atacante El personaje que hace el daño del ataque.
+     * @param objetivo El personaje que recibe el daño del ataque.
+     */
+    public void realizarAtaque(Personaje atacante, Personaje objetivo){
+        atacante.ofensa(objetivo);
+        if(objetivo.getAura()<=0){
+            System.out.println("¡" + objetivo.getNombre() + " ha sido derrotado por " + atacante.getNombre() + "!");
+            this.peleadores.remove(objetivo);
+        }
+    }
+
+    /**
      * Agrega un nuevo espectador a la lista para que pueda dar seguimiento
      * a los acontecimientos de la pelea.
      *
@@ -81,7 +96,7 @@ public class Combate implements Sujeto {
         Personaje dittu = peleadores.get(1);
         Personaje meganMan = peleadores.get(2);
 
-        ...
+        //...
     }
 
     /**
