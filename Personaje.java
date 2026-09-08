@@ -45,6 +45,12 @@ public abstract class Personaje{
         this.vida=vida;
     }
 
+    public void recogerObjeto(Tupla<ObjetoEspecial,Poder> poder){
+        this.setPoderEquipado(poder);
+        System.out.println("\n" + this.getNombre() + " tomó " + this.getPoderEquipado().getElemento1().getNombre() + ".");
+        System.out.println("Ahora " + this.getNombre() + " tiene " + this.getPoderEquipado().getElemento2().getDescripcion());
+    }
+
     public void danioAEnemigo(Personaje enemigo){
         int ataquePropio= this.getPoderEquipado().getElemento2().getAtaque();
         int defensaEnemigo= enemigo.getPoderEquipado().getElemento2().getDefensa();
@@ -63,12 +69,27 @@ public abstract class Personaje{
 
         enemigo.setVida(vidaEnemigo);
         
+        System.out.println("\n" + enemigo.getNombre() + " recibió un ataque de " + this.getNombre() + ".");
+        System.out.println(enemigo.getNombre() + " obtuvo un daño de " + danio + ". Le queda " + enemigo.getVida() + " de vida.");
 
-        System.out.println("\n" + this.getNombre() + " tomó " + this.getPoderEquipado().getElemento1() + ".");
-        System.out.println("Ahora " + this.getNombre() + " tiene " + this.getPoderEquipado().getElemento2().getDescripcion() + ".");
-        System.out.println(enemigo.getNombre() + " recibió un ataque de " + this.getNombre() + ".");
-        System.out.println(enemigo.getNombre() + " obtuvo un daño de " + danio + ". Le queda " + enemigo.getVida() + " de vida.\n");
+    }
 
+    public void absorberPoder(Personaje enemigo){
+        if(this.getFranquicia().equalsIgnoreCase(enemigo.getFranquicia())){
+            this.setPoderEquipado(enemigo.getPoderEquipado());
+            System.out.println(this.getNombre() + " absorbió el poder de " + enemigo.getNombre() + ".");
+        } else {
+            System.out.println(this.getNombre() + " no puede obtener el poder de " + enemigo.getNombre() + ", ya que no son" + 
+            " de la misma franquicia.");
+        }
+
+    }
+
+    public void ofensa(Personaje enemigo){
+        this.danioAEnemigo(enemigo);
+        if(enemigo.getVida()<= 0){
+            this.absorberPoder(enemigo);
+        }
     }
 
     
