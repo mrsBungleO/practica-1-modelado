@@ -1,7 +1,7 @@
 public class PoderNulo implements Poder{
     
     public final String DESCRIPCION= "poder nulo: aún no ha equipado ningún objeto especial.";
-    public final int ATAQUE=5;
+    public final int ATAQUE=10;
     public final int DEFENSA=5;
 
     public PoderNulo(){
