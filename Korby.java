@@ -4,7 +4,7 @@ import java.util.ArrayList;
 public class Korby extends Personaje{
     
     public Korby(){
-        super("Korby", "Nientiendo",200);
+        super("Korby", "Nientiendo",100);
 
         ObjetoEspecial encendedorTokai= new ObjetoEspecial("encendedor Tokai");
         ObjetoEspecial boliDeHorchata= new ObjetoEspecial("boli de horchata");

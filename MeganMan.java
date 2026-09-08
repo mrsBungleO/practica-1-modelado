@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class MeganMan extends Personaje{
     public MeganMan(){
-        super("MeganMan", "CopCam", 200);
+        super("MeganMan", "CopCam", 100);
 
         ObjetoEspecial nerfOnada= new ObjetoEspecial("pistola Nerf Onada");
         ObjetoEspecial taco= new ObjetoEspecial("taco de futbol llanero");

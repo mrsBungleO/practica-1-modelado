@@ -1,0 +1,102 @@
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 2 para este combate.
+[espectador4] Korby encontró boli de horchata y ahora tiene poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 183 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 194 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 185 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 166 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 188 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 170 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 149 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 182 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 155 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 132 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 176 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 140 puntos de vida.
+[espectador4] --- Ronda 5 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 115 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 170 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 125 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 98 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 164 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 110 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 81 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 158 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 95 puntos de vida.
+[espectador4] --- Ronda 8 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 64 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 152 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 80 puntos de vida.
+[espectador4] --- Ronda 9 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 47 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 146 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 65 puntos de vida.
+[espectador4] --- Ronda 10 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 30 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 140 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 50 puntos de vida.
+[espectador4] --- Ronda 11 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 13 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 134 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 35 puntos de vida.
+[espectador4] --- Ronda 12 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 0 puntos de vida.
+[espectador4] Dittu ha sido derrotado, FUERA AURA.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 20 puntos de vida.
+[espectador4] --- Ronda 13 ---
+[espectador4] Korby atacó a MeganMan usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] MeganMan le quedan 126 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 5 puntos de vida.
+[espectador4] --- Ronda 14 ---
+[espectador4] Korby atacó a MeganMan usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] MeganMan le quedan 118 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 0 puntos de vida.
+[espectador4] Korby ha sido derrotado, FUERA AURA.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: MeganMan!
+Mi personaje apoyado (MeganMan) ha ganado el combate.

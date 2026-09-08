@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class Dittu extends Personaje{
     public Dittu(){
-        super("Dittu","Chinpokomon",200);
+        super("Dittu","Chinpokomon",100);
         
         ObjetoEspecial mocoDeGorila= new ObjetoEspecial("moco de gorila");
         ObjetoEspecial aguaBonafond= new ObjetoEspecial("agua Bonafond");

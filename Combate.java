@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
 /**
  * Esta clase representa el escenario y la logica central donde se lleva a cabo el
@@ -69,6 +70,8 @@ public class Combate implements Sujeto {
         }
     }
 
+    private static final int LIMITE_RONDAS = 20; 
+
     /**
      * Da inicio a la simulacion del combate. Aqui es donde los
      * personajes obtienen sus habilidades al azar, intercambian ataques,
@@ -76,13 +79,79 @@ public class Combate implements Sujeto {
      */
     public void iniciarPelea() {
         notificarObservadores("¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!");
-        
-        Personaje korby = peleadores.get(0);
-        Personaje dittu = peleadores.get(1);
-        Personaje meganMan = peleadores.get(2);
+        int casoElegido = new Random().nextInt(3) + 1;
+        notificarObservadores("Se eligió al azar el caso de prueba " + casoElegido + " para este combate.");
 
-        ...
+        int indicePoder = casoElegido - 1;
+        for (Personaje peleador : peleadores) {
+            Tupla<ObjetoEspecial, Poder> tupla = peleador.getPoderes().get(indicePoder);
+            peleador.recogerObjeto(tupla);
+            notificarObservadores(peleador.getNombre() + " encontró " + tupla.getElemento1().getNombre()
+                + " y ahora tiene " + tupla.getElemento2().getDescripcion());
+        }
+
+        int rondaActual = 1;
+        while (rondaActual <= LIMITE_RONDAS) {
+            int sobrevivientes = 0;
+            for (Personaje peleador : peleadores) {
+                if (peleador.getVida() > 0) {
+                    sobrevivientes++;
+                }
+            }
+
+            if (sobrevivientes <= 1) {
+                break;
+            }
+
+            notificarObservadores("--- Ronda " + rondaActual + " ---");
+            ejecutarRonda();
+            rondaActual++;
+        }
     }
+
+    /**
+     * Ejecuta una ronda de combate donde cada peleador que siga con vida ataca al
+     * siguiente rival vivo, siguiendo el orden en que fueron registrados
+     * cada ataque y sus consecuencias se transmiten
+     * a la audiencia a traves de notificarObservadores(String)}.
+     */
+    public void ejecutarRonda() {
+        int totalPeleadores = peleadores.size();
+ 
+        for (int i = 0; i < totalPeleadores; i++) {
+            Personaje atacante = peleadores.get(i);
+ 
+            if (atacante.getVida() <= 0) {
+                continue;
+            }
+ 
+            Personaje objetivo = null;
+            for (int desplazamiento = 1; desplazamiento < totalPeleadores; desplazamiento++) {
+                Personaje candidato = peleadores.get((i + desplazamiento) % totalPeleadores);
+                if (candidato.getVida() > 0) {
+                    objetivo = candidato;
+                    break;
+                }
+            }
+ 
+            if (objetivo == null) {
+                continue;
+            }
+ 
+            Poder poderAtacante = atacante.getPoderEquipado().getElemento2();
+            poderAtacante.atacar(atacante, objetivo);
+ 
+            notificarObservadores(atacante.getNombre() + " atacó a " + objetivo.getNombre()
+                    + " usando su " + poderAtacante.getDescripcion());
+            notificarObservadores(objetivo.getNombre() + " le quedan " + objetivo.getVida() + " puntos de vida.");
+ 
+            if (objetivo.getVida() <= 0) {
+                notificarObservadores(objetivo.getNombre() + " ha sido derrotado, FUERA AURA.");
+            }
+        }
+    }
+ 
+
 
     /**
      * Evalúa las condiciones finales del enfrentamiento para determinar cuál de
@@ -91,7 +160,18 @@ public class Combate implements Sujeto {
      * @return El personaje que resultó victorioso al concluir la batalla.
      */
     public Personaje obtenerGanador() {
-        Personaje ganador = peleadores.get(0); 
+        Personaje ganador = null;
+        for (Personaje peleador : peleadores) {
+            if (peleador.getVida() > 0) {
+                ganador = peleador;
+                break;
+            }
+        }
+
+        if (ganador == null && !peleadores.isEmpty()) {
+            ganador = peleadores.get(0);
+        }
+
         notificarObservadores("¡FIN DEL COMBATE!");
         notificarObservadores("El ganador de la pelea es: " + ganador.getNombre() + "!");
         return ganador;
