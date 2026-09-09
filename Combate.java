@@ -94,16 +94,6 @@ public class Combate implements Sujeto {
      */
     public void iniciarPelea() {
         notificarObservadores("¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!");
-        int casoElegido = new Random().nextInt(3) + 1;
-        notificarObservadores("Se eligió al azar el caso de prueba " + casoElegido + " para este combate.");
-
-        int indicePoder = casoElegido - 1;
-        for (Personaje peleador : peleadores) {
-            Tupla<ObjetoEspecial, Poder> tupla = peleador.getPoderes().get(indicePoder);
-            peleador.recogerObjeto(tupla);
-            notificarObservadores(peleador.getNombre() + " encontró " + tupla.getElemento1().getNombre()
-                + " y ahora tiene " + tupla.getElemento2().getDescripcion());
-        }
 
         int rondaActual = 1;
         while (rondaActual <= LIMITE_RONDAS) {
@@ -118,12 +108,24 @@ public class Combate implements Sujeto {
                 break;
             }
 
+            if (rondaActual > 1) {
+                for (Personaje peleador : peleadores) {
+                    if (peleador.getAura() > 0 && !peleador.getPoderes().isEmpty()) {
+                        int indice = (rondaActual - 2) % peleador.getPoderes().size();
+                        Tupla<ObjetoEspecial, Poder> tupla = peleador.getPoderes().get(indice);
+                        peleador.recogerObjeto(tupla);
+                        notificarObservadores(peleador.getNombre() + " encontró " + tupla.getElemento1().getNombre()
+                            + " y ahora tiene " + tupla.getElemento2().getDescripcion());
+                    }
+                }
+            }
+
             notificarObservadores("--- Ronda " + rondaActual + " ---");
             ejecutarRonda();
             rondaActual++;
         }
     }
-
+    
     /**
      * Ejecuta una ronda de combate donde cada peleador que siga con vida ataca al
      * siguiente rival vivo, siguiendo el orden en que fueron registrados
@@ -132,14 +134,14 @@ public class Combate implements Sujeto {
      */
     public void ejecutarRonda() {
         int totalPeleadores = peleadores.size();
- 
+
         for (int i = 0; i < totalPeleadores; i++) {
             Personaje atacante = peleadores.get(i);
- 
+
             if (atacante.getAura() <= 0) {
                 continue;
             }
- 
+
             Personaje objetivo = null;
             for (int desplazamiento = 1; desplazamiento < totalPeleadores; desplazamiento++) {
                 Personaje candidato = peleadores.get((i + desplazamiento) % totalPeleadores);
@@ -148,23 +150,24 @@ public class Combate implements Sujeto {
                     break;
                 }
             }
- 
+
             if (objetivo == null) {
                 continue;
             }
- 
+
+            atacante.ofensa(objetivo);
+
             Poder poderAtacante = atacante.getPoderEquipado().getElemento2();
-            poderAtacante.atacar(objetivo);
- 
             notificarObservadores(atacante.getNombre() + " atacó a " + objetivo.getNombre()
                     + " usando su " + poderAtacante.getDescripcion());
             notificarObservadores(objetivo.getNombre() + " le quedan " + objetivo.getAura() + " puntos de vida.");
- 
+
             if (objetivo.getAura() <= 0) {
                 notificarObservadores(objetivo.getNombre() + " ha sido derrotado, FUERA AURA.");
             }
         }
     }
+    
  
 
 

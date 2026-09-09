@@ -1,7 +1,7 @@
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.PrintWriter;
+import java.io.BufferedWriter;
 
 /**
  * Representa a un espectador en la audiencia que sigue la transmision
@@ -53,11 +53,13 @@ public class EspectadorSimulado implements Observador {
      *
      * @param texto Mensaje a registrar.
      */
-    public void escribirEnBitacora(String texto) {
-        try (PrintWriter writer = new PrintWriter(new FileWriter(bitacora, true))) {
-            writer.println(texto);
-        } catch (IOException ex) {
-            System.err.println("Error al escribir la bitacora de " + idEspectador);
+    public void escribirEnBitacora(String mensaje) {
+        try (FileWriter fw = new FileWriter(bitacora, false);
+        BufferedWriter bw = new BufferedWriter(fw)) {
+        bw.write(mensaje);
+        bw.newLine();
+        } catch (IOException e) {
+            System.err.println("Error al escribir la bitácora: " + e.getMessage());
         }
     }
 }
