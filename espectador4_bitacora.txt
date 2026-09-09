@@ -100,3 +100,1647 @@
 [espectador4] ¡FIN DEL COMBATE!
 [espectador4] El ganador de la pelea es: MeganMan!
 Mi personaje apoyado (MeganMan) ha ganado el combate.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 2 para este combate.
+[espectador4] Korby encontró boli de horchata y ahora tiene poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 5 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 8 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 9 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 10 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 11 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 12 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 13 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 14 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 15 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 16 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 17 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 18 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 19 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 20 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: Korby!
+Mi personaje apoyado (Korby) ha ganado el combate.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 2 para este combate.
+[espectador4] Korby encontró boli de horchata y ahora tiene poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 5 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 8 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 9 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 10 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 11 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 12 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 13 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 14 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 15 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 16 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 17 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 18 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 19 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 20 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: Korby!
+Mi personaje apoyado (Dittu) ha perdido su aura.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 2 para este combate.
+[espectador4] Korby encontró boli de horchata y ahora tiene poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 83 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 94 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 85 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 66 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 88 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 70 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 49 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 82 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 55 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 32 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 76 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 40 puntos de vida.
+[espectador4] --- Ronda 5 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 15 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 70 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 25 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 0 puntos de vida.
+[espectador4] Dittu ha sido derrotado, FUERA AURA.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 3 para este combate.
+[espectador4] Korby encontró tabique y ahora tiene poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu encontró ramito de violeta y ahora tiene poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan encontró Robolais y ahora tiene poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 5 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 8 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 9 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 10 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 11 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 12 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 13 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 14 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 15 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 16 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 17 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 18 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 19 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 20 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: Korby!
+Mi personaje apoyado (Dittu) ha perdido su aura.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 2 para este combate.
+[espectador4] Korby encontró boli de horchata y ahora tiene poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 83 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 94 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 85 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 66 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 88 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 70 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 49 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 82 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 55 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 32 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 76 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 40 puntos de vida.
+[espectador4] --- Ronda 5 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 15 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 70 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 25 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 0 puntos de vida.
+[espectador4] Dittu ha sido derrotado, FUERA AURA.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 10 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Korby atacó a MeganMan usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] MeganMan le quedan 62 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 0 puntos de vida.
+[espectador4] Korby ha sido derrotado, FUERA AURA.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: MeganMan!
+Mi personaje apoyado (Dittu) ha perdido su aura.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 1 para este combate.
+[espectador4] Korby encontró encendedor Tokai y ahora tiene poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador4] Dittu encontró moco de gorila y ahora tiene poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan encontró pistola Nerf Onada y ahora tiene poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Korby le quedan 75 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Korby le quedan 50 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Korby le quedan 25 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Korby le quedan 0 puntos de vida.
+[espectador4] Korby ha sido derrotado, FUERA AURA.
+[espectador4] --- Ronda 5 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 8 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 9 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 10 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 11 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 12 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 13 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 14 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 15 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 16 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 17 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 18 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 19 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 20 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: Dittu!
+Mi personaje apoyado (Korby) ha perdido su aura.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 3 para este combate.
+[espectador4] Korby encontró tabique y ahora tiene poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu encontró ramito de violeta y ahora tiene poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan encontró Robolais y ahora tiene poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 5 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 8 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 9 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 10 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 11 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 12 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 13 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 14 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 15 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 16 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 17 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 18 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 19 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 20 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: Korby!
+Mi personaje apoyado (Dittu) ha perdido su aura.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 2 para este combate.
+[espectador4] Korby encontró boli de horchata y ahora tiene poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 83 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 94 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 85 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 66 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 88 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 70 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 49 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 82 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 55 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 32 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 76 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 40 puntos de vida.
+[espectador4] --- Ronda 5 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 15 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 70 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 25 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 0 puntos de vida.
+[espectador4] Dittu ha sido derrotado, FUERA AURA.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 10 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Korby atacó a MeganMan usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] MeganMan le quedan 62 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 0 puntos de vida.
+[espectador4] Korby ha sido derrotado, FUERA AURA.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: MeganMan!
+Mi personaje apoyado (MeganMan) ha ganado el combate.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 3 para este combate.
+[espectador4] Korby encontró tabique y ahora tiene poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu encontró ramito de violeta y ahora tiene poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan encontró Robolais y ahora tiene poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 5 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 8 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 9 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 10 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 11 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 12 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 13 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 14 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 15 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 16 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 17 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 18 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 19 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 20 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: Korby!
+Mi personaje apoyado (MeganMan) ha perdido su aura.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 2 para este combate.
+[espectador4] Korby encontró boli de horchata y ahora tiene poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 83 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 94 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 85 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 66 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 88 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 70 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 49 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 82 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 55 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 32 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 76 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 40 puntos de vida.
+[espectador4] --- Ronda 5 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 15 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 70 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 25 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 0 puntos de vida.
+[espectador4] Dittu ha sido derrotado, FUERA AURA.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 10 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Korby atacó a MeganMan usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] MeganMan le quedan 62 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 0 puntos de vida.
+[espectador4] Korby ha sido derrotado, FUERA AURA.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: MeganMan!
+Mi personaje apoyado (Korby) ha perdido su aura.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 2 para este combate.
+[espectador4] Korby encontró boli de horchata y ahora tiene poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 83 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 94 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 85 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 66 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 88 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 70 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 49 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 82 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 55 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 32 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 76 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 40 puntos de vida.
+[espectador4] --- Ronda 5 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 15 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 70 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 25 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 0 puntos de vida.
+[espectador4] Dittu ha sido derrotado, FUERA AURA.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 10 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Korby atacó a MeganMan usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] MeganMan le quedan 62 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 0 puntos de vida.
+[espectador4] Korby ha sido derrotado, FUERA AURA.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: MeganMan!
+Mi personaje apoyado (Dittu) ha perdido su aura.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 3 para este combate.
+[espectador4] Korby encontró tabique y ahora tiene poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu encontró ramito de violeta y ahora tiene poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan encontró Robolais y ahora tiene poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 5 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 8 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 9 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 10 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 11 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 12 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 13 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 14 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 15 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 16 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 17 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 18 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 19 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 20 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: Korby!
+Mi personaje apoyado (Dittu) ha perdido su aura.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 3 para este combate.
+[espectador4] Korby encontró tabique y ahora tiene poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu encontró ramito de violeta y ahora tiene poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan encontró Robolais y ahora tiene poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 5 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 8 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 9 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 10 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 11 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 12 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 13 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 14 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 15 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 16 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 17 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 18 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 19 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] --- Ronda 20 ---
+[espectador4] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador4] Korby le quedan 100 puntos de vida.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: Korby!
+Mi personaje apoyado (Korby) ha ganado el combate.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 2 para este combate.
+[espectador4] Korby encontró boli de horchata y ahora tiene poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 83 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 94 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 85 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 66 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 88 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 70 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 49 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 82 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 55 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 32 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 76 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 40 puntos de vida.
+[espectador4] --- Ronda 5 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 15 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 70 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 25 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 0 puntos de vida.
+[espectador4] Dittu ha sido derrotado, FUERA AURA.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 10 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Korby atacó a MeganMan usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] MeganMan le quedan 62 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 0 puntos de vida.
+[espectador4] Korby ha sido derrotado, FUERA AURA.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: MeganMan!
+Mi personaje apoyado (Korby) ha perdido su aura.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 2 para este combate.
+[espectador4] Korby encontró boli de horchata y ahora tiene poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 83 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 94 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 85 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 66 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 88 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 70 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 49 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 82 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 55 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 32 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 76 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 40 puntos de vida.
+[espectador4] --- Ronda 5 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 15 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador4] MeganMan le quedan 70 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 25 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] Dittu le quedan 0 puntos de vida.
+[espectador4] Dittu ha sido derrotado, FUERA AURA.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 10 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Korby atacó a MeganMan usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador4] MeganMan le quedan 62 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador4] Korby le quedan 0 puntos de vida.
+[espectador4] Korby ha sido derrotado, FUERA AURA.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: MeganMan!
+Mi personaje apoyado (Dittu) ha perdido su aura.
+[espectador4] ¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!
+[espectador4] Se eligió al azar el caso de prueba 1 para este combate.
+[espectador4] Korby encontró encendedor Tokai y ahora tiene poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador4] Dittu encontró moco de gorila y ahora tiene poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan encontró pistola Nerf Onada y ahora tiene poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] --- Ronda 1 ---
+[espectador4] Korby atacó a Dittu usando su poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Korby le quedan 75 puntos de vida.
+[espectador4] --- Ronda 2 ---
+[espectador4] Korby atacó a Dittu usando su poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Korby le quedan 50 puntos de vida.
+[espectador4] --- Ronda 3 ---
+[espectador4] Korby atacó a Dittu usando su poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Korby le quedan 25 puntos de vida.
+[espectador4] --- Ronda 4 ---
+[espectador4] Korby atacó a Dittu usando su poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Korby usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Korby le quedan 0 puntos de vida.
+[espectador4] Korby ha sido derrotado, FUERA AURA.
+[espectador4] --- Ronda 5 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 6 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 7 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 8 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 9 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 10 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 11 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 12 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 13 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 14 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 15 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 16 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 17 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 18 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 19 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] --- Ronda 20 ---
+[espectador4] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador4] MeganMan le quedan 100 puntos de vida.
+[espectador4] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador4] Dittu le quedan 100 puntos de vida.
+[espectador4] ¡FIN DEL COMBATE!
+[espectador4] El ganador de la pelea es: Dittu!
+Mi personaje apoyado (MeganMan) ha perdido su aura.

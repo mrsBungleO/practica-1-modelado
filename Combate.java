@@ -46,7 +46,6 @@ public class Combate implements Sujeto {
         atacante.ofensa(objetivo);
         if(objetivo.getAura()<=0){
             System.out.println("¡" + objetivo.getNombre() + " ha sido derrotado por " + atacante.getNombre() + "!");
-            this.peleadores.remove(objetivo);
         }
     }
 
@@ -131,9 +130,8 @@ public class Combate implements Sujeto {
      * a la audiencia a traves de notificarObservadores(String)}.
      */
     public void ejecutarRonda() {
-        int totalPeleadores = peleadores.size();
  
-        for (int i = 0; i < totalPeleadores; i++) {
+        for (int i = 0; i < peleadores.size(); i++) {
             Personaje atacante = peleadores.get(i);
  
             if (atacante.getAura() <= 0) {
@@ -141,8 +139,8 @@ public class Combate implements Sujeto {
             }
  
             Personaje objetivo = null;
-            for (int desplazamiento = 1; desplazamiento < totalPeleadores; desplazamiento++) {
-                Personaje candidato = peleadores.get((i + desplazamiento) % totalPeleadores);
+            for (int desplazamiento = 1; desplazamiento < peleadores.size(); desplazamiento++) {
+                Personaje candidato = peleadores.get((i + desplazamiento) % peleadores.size());
                 if (candidato.getAura() > 0) {
                     objetivo = candidato;
                     break;
@@ -154,7 +152,7 @@ public class Combate implements Sujeto {
             }
  
             Poder poderAtacante = atacante.getPoderEquipado().getElemento2();
-            poderAtacante.atacar(objetivo);
+            realizarAtaque(atacante,objetivo);
  
             notificarObservadores(atacante.getNombre() + " atacó a " + objetivo.getNombre()
                     + " usando su " + poderAtacante.getDescripcion());
