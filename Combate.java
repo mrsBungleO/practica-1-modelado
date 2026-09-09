@@ -92,7 +92,13 @@ public class Combate implements Sujeto {
      * se defienden y se va informando progresivamente a la audiencia de cada suceso.
      */
     public void iniciarPelea() {
-        notificarObservadores("¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!");
+        System.out.println();
+        System.out.println("La pelea inicia en:");
+        System.out.println("3...");
+        System.out.println("2...");
+        System.out.println("1...");
+        System.out.println("¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!");
+        notificarObservadores("y...¡ARRANCA LA PELEA, SSEÑORES Y SEÑORAS!");
 
         int rondaActual = 1;
         while (rondaActual <= LIMITE_RONDAS) {
@@ -118,7 +124,7 @@ public class Combate implements Sujeto {
                     }
                 }
             }
-
+            System.out.println("--- Ronda " + rondaActual + " ---");
             notificarObservadores("--- Ronda " + rondaActual + " ---");
             ejecutarRonda();
             rondaActual++;
@@ -154,7 +160,7 @@ public class Combate implements Sujeto {
                 continue;
             }
 
-            atacante.ofensa(objetivo);
+            this.realizarAtaque(atacante,objetivo);
 
             Poder poderAtacante = atacante.getPoderEquipado().getElemento2();
             notificarObservadores(atacante.getNombre() + " atacó a " + objetivo.getNombre()
@@ -188,9 +194,11 @@ public class Combate implements Sujeto {
         if (ganador == null && !peleadores.isEmpty()) {
             ganador = peleadores.get(0);
         }
-
+        System.out.println("¡FIN DEL COMBATE!");
         notificarObservadores("¡FIN DEL COMBATE!");
-        notificarObservadores("El ganador de la pelea es: " + ganador.getNombre() + "!");
+
+        System.out.println("¡El ganador de la pelea es: " + ganador.getNombre() + "!");
+        notificarObservadores("Señores y señoras, tenemos a un ganador, y es... ¡" + ganador.getNombre() + "!");
         return ganador;
     }
 }
