@@ -1,8 +1,17 @@
 import java.util.List;
 import java.util.ArrayList;
 
+/**
+ * Clase que representa al personaje Korby dentro del juego
+ * Hereda de {@link Personaje} y pertenece a la franquicia Nientiendo.
+ */
 public class Korby extends Personaje{
     
+    /**
+     * Construye e inicializa una nueva instancia de Korby
+     * Configura su nombre, franquicia, 100 puntos de aura iniciales
+     * y añade a su lista de poderes el encendedor Tokai, el boli de horchata y el tabique.
+     */
     public Korby(){
         super("Korby", "Nientiendo",100);
 

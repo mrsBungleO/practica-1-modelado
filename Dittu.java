@@ -1,6 +1,11 @@
 import java.util.List;
 import java.util.ArrayList;
 
+/**
+ * Clase que representa al personaje Dittu dentro del juego
+ * Hereda de {@link Personaje} y pertenece a la franquicia
+ * Sobrescribe la mecánica de ofensa para permitir absorber el poder de su enemigo antes de atacar
+ */
 public class Dittu extends Personaje{
     public Dittu(){
         super("Dittu","Chinpokomon",100);
