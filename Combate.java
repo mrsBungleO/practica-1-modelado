@@ -46,7 +46,6 @@ public class Combate implements Sujeto {
         atacante.ofensa(objetivo);
         if(objetivo.getAura()<=0){
             System.out.println("¡" + objetivo.getNombre() + " ha sido derrotado por " + atacante.getNombre() + "!");
-            this.peleadores.remove(objetivo);
         }
     }
 
@@ -143,8 +142,8 @@ public class Combate implements Sujeto {
             }
 
             Personaje objetivo = null;
-            for (int desplazamiento = 1; desplazamiento < totalPeleadores; desplazamiento++) {
-                Personaje candidato = peleadores.get((i + desplazamiento) % totalPeleadores);
+            for (int desplazamiento = 1; desplazamiento < peleadores.size(); desplazamiento++) {
+                Personaje candidato = peleadores.get((i + desplazamiento) % peleadores.size());
                 if (candidato.getAura() > 0) {
                     objetivo = candidato;
                     break;
