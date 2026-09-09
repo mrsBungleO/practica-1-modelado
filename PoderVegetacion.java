@@ -1,7 +1,7 @@
 public class PoderVegetacion implements Poder{
     
     public final String DESCRIPCION= "poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.";
-    public final int ATAQUE=0;
+    public final int ATAQUE=10;
     public final int DEFENSA=22;
 
     public PoderVegetacion(){
@@ -24,8 +24,8 @@ public class PoderVegetacion implements Poder{
     }
 
     @Override
-    public void atacar(Personaje personaje, Personaje enemigo){
-        personaje.danioAEnemigo(enemigo);
+    public void atacar(Personaje enemigo){
+        System.out.println("¡Dittu le manda un ramito de violetas a " + enemigo.getNombre() + "!");
     }
 
 }

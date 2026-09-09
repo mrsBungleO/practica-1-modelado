@@ -7,14 +7,14 @@ public abstract class Personaje{
     private String franquicia;
     private List<Tupla<ObjetoEspecial,Poder>> poderes;
     private Tupla<ObjetoEspecial,Poder> poderEquipado;
-    private int vida;
+    private int aura;
 
-    public Personaje(String nombre, String franquicia, int vida){
+    public Personaje(String nombre, String franquicia, int aura){
         this.nombre= nombre;
         this.franquicia= franquicia;
         this.poderes= new ArrayList<>();
         this.poderEquipado= new Tupla<>(new ObjetoEspecial("ningun objeto equipado"), new PoderNulo());
-        this.vida= vida;
+        this.aura= aura;
     }
 
     public String getNombre(){
@@ -33,16 +33,16 @@ public abstract class Personaje{
         return this.poderEquipado;
     }
 
-    public int getVida(){
-        return this.vida;
+    public int getAura(){
+        return this.aura;
     }
     
     public void setPoderEquipado(Tupla<ObjetoEspecial,Poder> poder){
         this.poderEquipado=poder;
     }
 
-    public void setVida(int vida){
-        this.vida=vida;
+    public void setAura(int aura){
+        this.aura=aura;
     }
 
     public void recogerObjeto(Tupla<ObjetoEspecial,Poder> poder){
@@ -52,6 +52,8 @@ public abstract class Personaje{
     }
 
     public void danioAEnemigo(Personaje enemigo){
+        
+        this.getPoderEquipado().getElemento2().atacar(enemigo);
         int ataquePropio= this.getPoderEquipado().getElemento2().getAtaque();
         int defensaEnemigo= enemigo.getPoderEquipado().getElemento2().getDefensa();
         
@@ -61,16 +63,16 @@ public abstract class Personaje{
             danio=0;
         }
 
-        int vidaEnemigo= enemigo.getVida() - danio;
+        int auraEnemigo= enemigo.getAura() - danio;
 
-        if(vidaEnemigo<0){
-            vidaEnemigo=0;
+        if(auraEnemigo<0){
+            auraEnemigo=0;
         }
 
-        enemigo.setVida(vidaEnemigo);
+        enemigo.setAura(auraEnemigo);
         
         System.out.println("\n" + enemigo.getNombre() + " recibió un ataque de " + this.getNombre() + ".");
-        System.out.println(enemigo.getNombre() + " obtuvo un daño de " + danio + ". Le queda " + enemigo.getVida() + " de vida.");
+        System.out.println(enemigo.getNombre() + " obtuvo un daño de " + danio + ". Le queda " + enemigo.getAura() + " de aura.");
 
     }
 
@@ -87,7 +89,7 @@ public abstract class Personaje{
 
     public void ofensa(Personaje enemigo){
         this.danioAEnemigo(enemigo);
-        if(enemigo.getVida()<= 0){
+        if(enemigo.getAura()<= 0){
             this.absorberPoder(enemigo);
         }
     }

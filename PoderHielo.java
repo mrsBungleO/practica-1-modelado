@@ -24,8 +24,8 @@ public class PoderHielo implements Poder{
     }
 
     @Override
-    public void atacar(Personaje personaje,Personaje enemigo){
-        personaje.danioAEnemigo(enemigo);
+    public void atacar(Personaje enemigo){
+        System.out.println("¡Korby sopla hacia " + enemigo.getNombre() + "!");
     }
 
 }

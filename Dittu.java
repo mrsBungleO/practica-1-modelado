@@ -21,4 +21,10 @@ public class Dittu extends Personaje{
         this.getPoderes().add(poderDittu2);
         this.getPoderes().add(poderDittu3);
     }
+
+    @Override
+    public void ofensa(Personaje enemigo){
+        this.absorberPoder(enemigo);
+        this.danioAEnemigo(enemigo);
+    }
 }

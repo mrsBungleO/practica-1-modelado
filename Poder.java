@@ -6,6 +6,6 @@ public interface Poder{
 
     public int getAtaque();
     
-    public void atacar(Personaje personaje, Personaje enemigo);
+    public void atacar(Personaje enemigo);
     
 }

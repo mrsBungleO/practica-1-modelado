@@ -25,8 +25,8 @@ public class PoderFuego implements Poder{
     }
 
     @Override
-    public void atacar(Personaje personaje,Personaje enemigo){
-        personaje.danioAEnemigo(enemigo);
+    public void atacar(Personaje enemigo){
+        System.out.println("¡Korby lanza una llamarada a " + enemigo.getNombre() + "!");
 
     }
 

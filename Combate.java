@@ -36,6 +36,21 @@ public class Combate implements Sujeto {
     }
 
     /**
+     * Condensa toda la logica de un ataque y elimina de la lista de peleadores
+     * al personaje que recibe el daño si su vida se termina durante ese ataque.
+     * 
+     * @param atacante El personaje que hace el daño del ataque.
+     * @param objetivo El personaje que recibe el daño del ataque.
+     */
+    public void realizarAtaque(Personaje atacante, Personaje objetivo){
+        atacante.ofensa(objetivo);
+        if(objetivo.getAura()<=0){
+            System.out.println("¡" + objetivo.getNombre() + " ha sido derrotado por " + atacante.getNombre() + "!");
+            this.peleadores.remove(objetivo);
+        }
+    }
+
+    /**
      * Agrega un nuevo espectador a la lista para que pueda dar seguimiento
      * a los acontecimientos de la pelea.
      *
@@ -94,7 +109,7 @@ public class Combate implements Sujeto {
         while (rondaActual <= LIMITE_RONDAS) {
             int sobrevivientes = 0;
             for (Personaje peleador : peleadores) {
-                if (peleador.getVida() > 0) {
+                if (peleador.getAura() > 0) {
                     sobrevivientes++;
                 }
             }
@@ -121,14 +136,14 @@ public class Combate implements Sujeto {
         for (int i = 0; i < totalPeleadores; i++) {
             Personaje atacante = peleadores.get(i);
  
-            if (atacante.getVida() <= 0) {
+            if (atacante.getAura() <= 0) {
                 continue;
             }
  
             Personaje objetivo = null;
             for (int desplazamiento = 1; desplazamiento < totalPeleadores; desplazamiento++) {
                 Personaje candidato = peleadores.get((i + desplazamiento) % totalPeleadores);
-                if (candidato.getVida() > 0) {
+                if (candidato.getAura() > 0) {
                     objetivo = candidato;
                     break;
                 }
@@ -139,13 +154,13 @@ public class Combate implements Sujeto {
             }
  
             Poder poderAtacante = atacante.getPoderEquipado().getElemento2();
-            poderAtacante.atacar(atacante, objetivo);
+            poderAtacante.atacar(objetivo);
  
             notificarObservadores(atacante.getNombre() + " atacó a " + objetivo.getNombre()
                     + " usando su " + poderAtacante.getDescripcion());
-            notificarObservadores(objetivo.getNombre() + " le quedan " + objetivo.getVida() + " puntos de vida.");
+            notificarObservadores(objetivo.getNombre() + " le quedan " + objetivo.getAura() + " puntos de vida.");
  
-            if (objetivo.getVida() <= 0) {
+            if (objetivo.getAura() <= 0) {
                 notificarObservadores(objetivo.getNombre() + " ha sido derrotado, FUERA AURA.");
             }
         }
@@ -162,7 +177,7 @@ public class Combate implements Sujeto {
     public Personaje obtenerGanador() {
         Personaje ganador = null;
         for (Personaje peleador : peleadores) {
-            if (peleador.getVida() > 0) {
+            if (peleador.getAura() > 0) {
                 ganador = peleador;
                 break;
             }

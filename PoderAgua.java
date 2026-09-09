@@ -25,8 +25,8 @@ public class PoderAgua implements Poder{
     }
 
     @Override
-    public void atacar(Personaje personaje, Personaje enemigo){
-        personaje.danioAEnemigo(enemigo);
+    public void atacar(Personaje enemigo){
+        System.out.println("Dittu toma la poca agua potable de Ecatepec y la manipula para que lastime a " + enemigo.getNombre() + "!");
     }
 
 }
