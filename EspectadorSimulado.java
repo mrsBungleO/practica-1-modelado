@@ -37,7 +37,7 @@ public class EspectadorSimulado implements Observador {
         /**
          * Reaccion personalizada segun si su candidato gano o perdio.
          */
-        if (evento.contains("El ganador de la pelea es:")) {
+        if (evento.contains("tenemos a un ganador")) {
             if (evento.contains(personajeFavorito.getNombre())) {
                 escribirEnBitacora("Mi personaje apoyado (" 
                         + personajeFavorito.getNombre() + ") ha ganado el combate.");
@@ -54,7 +54,7 @@ public class EspectadorSimulado implements Observador {
      * @param texto Mensaje a registrar.
      */
     public void escribirEnBitacora(String mensaje) {
-        try (FileWriter fw = new FileWriter(bitacora, false);
+        try (FileWriter fw = new FileWriter(bitacora, true);
         BufferedWriter bw = new BufferedWriter(fw)) {
         bw.write(mensaje);
         bw.newLine();

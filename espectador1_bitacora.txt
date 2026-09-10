@@ -1,1 +1,166 @@
+[espectador1] y...¡ARRANCA LA PELEA, SSEÑORES Y SEÑORAS!
+[espectador1] --- Ronda 1 ---
+[espectador1] Korby atacó a Dittu usando su poder nulo: aún no ha equipado ningún objeto especial.
+[espectador1] Dittu le quedan 95 puntos de vida.
+[espectador1] Dittu atacó a MeganMan usando su poder nulo: aún no ha equipado ningún objeto especial.
+[espectador1] MeganMan le quedan 95 puntos de vida.
+[espectador1] MeganMan atacó a Korby usando su poder nulo: aún no ha equipado ningún objeto especial.
+[espectador1] Korby le quedan 95 puntos de vida.
+[espectador1] Korby encontró encendedor Tokai y ahora tiene poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador1] Dittu encontró moco de gorila y ahora tiene poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador1] MeganMan encontró pistola Nerf Onada y ahora tiene poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador1] --- Ronda 2 ---
+[espectador1] Korby atacó a Dittu usando su poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador1] Dittu le quedan 95 puntos de vida.
+[espectador1] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador1] MeganMan le quedan 95 puntos de vida.
+[espectador1] MeganMan atacó a Korby usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador1] Korby le quedan 70 puntos de vida.
+[espectador1] Korby encontró boli de horchata y ahora tiene poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador1] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador1] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador1] --- Ronda 3 ---
+[espectador1] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador1] Dittu le quedan 78 puntos de vida.
+[espectador1] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador1] MeganMan le quedan 89 puntos de vida.
+[espectador1] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador1] Korby le quedan 55 puntos de vida.
+[espectador1] Korby encontró tabique y ahora tiene poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador1] Dittu encontró ramito de violeta y ahora tiene poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador1] MeganMan encontró Robolais y ahora tiene poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador1] --- Ronda 4 ---
+[espectador1] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador1] Dittu le quedan 78 puntos de vida.
+[espectador1] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador1] MeganMan le quedan 89 puntos de vida.
+[espectador1] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador1] Korby le quedan 55 puntos de vida.
+[espectador1] Korby encontró encendedor Tokai y ahora tiene poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador1] Dittu encontró moco de gorila y ahora tiene poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador1] MeganMan encontró pistola Nerf Onada y ahora tiene poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador1] --- Ronda 5 ---
+[espectador1] Korby atacó a Dittu usando su poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador1] Dittu le quedan 78 puntos de vida.
+[espectador1] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador1] MeganMan le quedan 89 puntos de vida.
+[espectador1] MeganMan atacó a Korby usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador1] Korby le quedan 30 puntos de vida.
+[espectador1] Korby encontró boli de horchata y ahora tiene poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador1] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador1] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador1] --- Ronda 6 ---
+[espectador1] Korby atacó a Dittu usando su poder de hielo: Korby congela al oponente con su aliento helado olor a horchata.
+[espectador1] Dittu le quedan 61 puntos de vida.
+[espectador1] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador1] MeganMan le quedan 83 puntos de vida.
+[espectador1] MeganMan atacó a Korby usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador1] Korby le quedan 15 puntos de vida.
+[espectador1] Korby encontró tabique y ahora tiene poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador1] Dittu encontró ramito de violeta y ahora tiene poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador1] MeganMan encontró Robolais y ahora tiene poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador1] --- Ronda 7 ---
+[espectador1] Korby atacó a Dittu usando su poder de roca: Korby puede protegerse de los ataques de su oponente siendo frio y duro como una roca y lanzando fragmentos de si mismo a quien quiera hacerle batalla
+[espectador1] Dittu le quedan 61 puntos de vida.
+[espectador1] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador1] MeganMan le quedan 83 puntos de vida.
+[espectador1] MeganMan atacó a Korby usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador1] Korby le quedan 15 puntos de vida.
+[espectador1] Korby encontró encendedor Tokai y ahora tiene poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador1] Dittu encontró moco de gorila y ahora tiene poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador1] MeganMan encontró pistola Nerf Onada y ahora tiene poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador1] --- Ronda 8 ---
+[espectador1] Korby atacó a Dittu usando su poder de fuego: Korby usa su encendedor para escupir llamas como tragafuego en semaforo.
+[espectador1] Dittu le quedan 61 puntos de vida.
+[espectador1] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador1] MeganMan le quedan 83 puntos de vida.
+[espectador1] MeganMan atacó a Korby usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador1] Korby le quedan 0 puntos de vida.
+[espectador1] Korby ha sido derrotado, FUERA AURA.
+[espectador1] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador1] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador1] --- Ronda 9 ---
+[espectador1] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador1] MeganMan le quedan 77 puntos de vida.
+[espectador1] MeganMan atacó a Dittu usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador1] Dittu le quedan 46 puntos de vida.
+[espectador1] Dittu encontró ramito de violeta y ahora tiene poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador1] MeganMan encontró Robolais y ahora tiene poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador1] --- Ronda 10 ---
+[espectador1] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador1] MeganMan le quedan 77 puntos de vida.
+[espectador1] MeganMan atacó a Dittu usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador1] Dittu le quedan 46 puntos de vida.
+[espectador1] Dittu encontró moco de gorila y ahora tiene poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador1] MeganMan encontró pistola Nerf Onada y ahora tiene poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador1] --- Ronda 11 ---
+[espectador1] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador1] MeganMan le quedan 77 puntos de vida.
+[espectador1] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador1] Dittu le quedan 46 puntos de vida.
+[espectador1] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador1] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador1] --- Ronda 12 ---
+[espectador1] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador1] MeganMan le quedan 71 puntos de vida.
+[espectador1] MeganMan atacó a Dittu usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador1] Dittu le quedan 31 puntos de vida.
+[espectador1] Dittu encontró ramito de violeta y ahora tiene poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador1] MeganMan encontró Robolais y ahora tiene poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador1] --- Ronda 13 ---
+[espectador1] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador1] MeganMan le quedan 71 puntos de vida.
+[espectador1] MeganMan atacó a Dittu usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador1] Dittu le quedan 31 puntos de vida.
+[espectador1] Dittu encontró moco de gorila y ahora tiene poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador1] MeganMan encontró pistola Nerf Onada y ahora tiene poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador1] --- Ronda 14 ---
+[espectador1] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador1] MeganMan le quedan 71 puntos de vida.
+[espectador1] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador1] Dittu le quedan 31 puntos de vida.
+[espectador1] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador1] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador1] --- Ronda 15 ---
+[espectador1] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador1] MeganMan le quedan 65 puntos de vida.
+[espectador1] MeganMan atacó a Dittu usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador1] Dittu le quedan 16 puntos de vida.
+[espectador1] Dittu encontró ramito de violeta y ahora tiene poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador1] MeganMan encontró Robolais y ahora tiene poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador1] --- Ronda 16 ---
+[espectador1] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador1] MeganMan le quedan 65 puntos de vida.
+[espectador1] MeganMan atacó a Dittu usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador1] Dittu le quedan 16 puntos de vida.
+[espectador1] Dittu encontró moco de gorila y ahora tiene poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador1] MeganMan encontró pistola Nerf Onada y ahora tiene poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador1] --- Ronda 17 ---
+[espectador1] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador1] MeganMan le quedan 65 puntos de vida.
+[espectador1] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador1] Dittu le quedan 16 puntos de vida.
+[espectador1] Dittu encontró agua Bonafond y ahora tiene poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador1] MeganMan encontró taco de futbol llanero y ahora tiene poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador1] --- Ronda 18 ---
+[espectador1] Dittu atacó a MeganMan usando su poder de agua: Dittu puede manipular grandes volumenes de agua provenientesde Ecatepec para atacar y defenderse.
+[espectador1] MeganMan le quedan 59 puntos de vida.
+[espectador1] MeganMan atacó a Dittu usando su poder de barrida: MeganMan puede barrerse como tu tío en su torneo de futbol llanero y tumbar a sus oponentes.
+[espectador1] Dittu le quedan 1 puntos de vida.
+[espectador1] Dittu encontró ramito de violeta y ahora tiene poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador1] MeganMan encontró Robolais y ahora tiene poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador1] --- Ronda 19 ---
+[espectador1] Dittu atacó a MeganMan usando su poder de vegetación: Dittu puede construir grandes barreras de violetas para su defensa.
+[espectador1] MeganMan le quedan 59 puntos de vida.
+[espectador1] MeganMan atacó a Dittu usando su poder de mascota: Robolais acude a ayuda de MeganMan. Muerde y ladra a quienes buscan atacar a su amo.
+[espectador1] Dittu le quedan 1 puntos de vida.
+[espectador1] Dittu encontró moco de gorila y ahora tiene poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador1] MeganMan encontró pistola Nerf Onada y ahora tiene poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador1] --- Ronda 20 ---
+[espectador1] Dittu atacó a MeganMan usando su poder de escurrimiento: Dittu se vuelve una masa escurridiza que hace imposible a sus enemigos atacarlo.
+[espectador1] MeganMan le quedan 59 puntos de vida.
+[espectador1] MeganMan atacó a Dittu usando su poder de disparo: MeganMan adquiere un arma con la que puede disparar balas o intimidar a sus oponentes.
+[espectador1] Dittu le quedan 1 puntos de vida.
+[espectador1] ¡FIN DEL COMBATE!
 [espectador1] Señores y señoras, tenemos a un ganador, y es... ¡Dittu!
+Mi personaje apoyado (Dittu) ha ganado el combate.
