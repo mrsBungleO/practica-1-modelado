@@ -31,4 +31,23 @@ public class MeganMan extends Personaje{
         this.getPoderes().add(poderMeganMan2);
         this.getPoderes().add(poderMeganMan3);
     }
+
+    @Override
+    public boolean esAbsorbido(Personaje enemigo){
+        if(enemigo.getAura()==0){
+             System.out.println("MeganMan intenta copiar el poder de " + enemigo.getNombre());
+            if(this.getFranquicia().equalsIgnoreCase(enemigo.getFranquicia())){
+                this.setPoderEquipado(enemigo.getPoderEquipado());
+                System.out.println("¡MeganMan copió el poder de " + enemigo.getNombre()+ "!");;
+                System.out.println("MeganMan ahora tiene "+ enemigo.getPoderEquipado().getElemento2().getDescripcion() + ".");
+                return true;
+            } else{
+                System.out.println("MeganMan no puede absorber el poder de " + enemigo.getNombre() + ", ya que no son de la misma franquicia.");
+                return false;
+            }
+        } else { 
+            return false;
+        }
+        
+    }
 }

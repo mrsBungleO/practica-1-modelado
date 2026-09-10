@@ -95,13 +95,10 @@ public class Combate implements Sujeto {
      */
     public void absorberPoder(Personaje atacante, Personaje objetivo){
 
-        if(atacante.getFranquicia().equalsIgnoreCase(objetivo.getFranquicia())){
-            atacante.setPoderEquipado(objetivo.getPoderEquipado());
-            System.out.println(atacante.getNombre() + " absorbió el poder de " + objetivo.getNombre() + ".");
-            notificarObservadores(atacante.getNombre() + " absorbió el poder de " + objetivo.getNombre() + ".");
+        if(atacante.esAbsorbido(objetivo)){
+            notificarObservadores(atacante.getNombre() + " absorbió/copió el poder de " + objetivo.getNombre() + ".");
         } else{
-            System.out.println(atacante.getNombre() + " no puede absorber el poder de " + objetivo.getNombre() + ", pues no son de la misma franquicia.");
-            notificarObservadores(atacante.getNombre() + " no puede absorber el poder de " + objetivo.getNombre() + ", pues no son de la misma franquicia.");
+            notificarObservadores(atacante.getNombre() + " no puedo absorber el poder de " + objetivo.getNombre() + ", pues no son de la misma franquicia o porque aún no ha sido derrotado.");
         }
         
     }

@@ -33,4 +33,18 @@ public class Korby extends Personaje{
         
 
     }
+
+    @Override
+    public boolean esAbsorbido(Personaje enemigo){
+        System.out.println("Korby intenta absorber a " + enemigo.getNombre());
+        if(this.getFranquicia().equalsIgnoreCase(enemigo.getFranquicia())){
+            this.setPoderEquipado(enemigo.getPoderEquipado());
+            System.out.println("¡Korby absorbió el poder de " + enemigo.getNombre()+ "!");;
+            System.out.println("Korby ahora tiene "+ enemigo.getPoderEquipado().getElemento2().getDescripcion() + ".");
+            return true;
+        } else{
+            System.out.println("Korby no puede absorber el poder de " + enemigo.getNombre() + ", ya que no son de la misma franquicia.");
+            return false;
+        }
+    }
 }

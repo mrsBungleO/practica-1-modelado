@@ -95,5 +95,7 @@ public abstract class Personaje{
         this.aura=aura;
     }
 
+    public abstract boolean esAbsorbido(Personaje enemigo);
+
 
 }
