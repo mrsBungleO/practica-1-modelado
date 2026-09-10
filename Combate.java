@@ -36,6 +36,90 @@ public class Combate implements Sujeto {
     }
 
     /**
+     * Hace que un personaje recoja un objeto especial junto con su poder e imprime los detalles
+     * @param personaje El personaje que recojera el objeto y equipará el poder asociado
+     * @param poder La tupla con el objeto especial y el poder a recoger
+     */
+    public void recogerObjeto(Personaje personaje, Tupla<ObjetoEspecial,Poder> poder){
+        personaje.setPoderEquipado(poder);
+        System.out.println(personaje.getNombre() + " tomó " + personaje.getPoderEquipado().getElemento1().getNombre() + ".");
+        System.out.println("Ahora " + personaje.getNombre() + " tiene " + personaje.getPoderEquipado().getElemento2().getDescripcion());
+
+        notificarObservadores(personaje.getNombre() + " tomó " + personaje.getPoderEquipado().getElemento1().getNombre() + ".");
+        notificarObservadores("Ahora " + personaje.getNombre() + " tiene " + personaje.getPoderEquipado().getElemento2().getDescripcion());
+    }
+
+    /**
+     * Hace que un personaje atacante realice un ataque hacia un personaje objetivo, calcula el daño recibido segun las
+     * estadisticas de ataque y defensa, reduce el aura del objetivo e imprime los datos del combate
+     * @param atacante El personaje que realiza el ataque
+     * @param objetivo El personaje que recibira el ataque
+     */
+    public void danioAEnemigo(Personaje atacante, Personaje objetivo){
+        
+        atacante.getPoderEquipado().getElemento2().atacar(objetivo);
+        int ataquePropio= atacante.getPoderEquipado().getElemento2().getAtaque();
+        int defensaEnemigo= objetivo.getPoderEquipado().getElemento2().getDefensa();
+        
+        int danio= ataquePropio - defensaEnemigo;
+        
+        if(danio<0){
+            danio=0;
+        }
+
+        int auraEnemigo= objetivo.getAura() - danio;
+
+        if(auraEnemigo<0){
+            auraEnemigo=0;
+        }
+
+        objetivo.setAura(auraEnemigo);
+        
+        System.out.println(objetivo.getNombre() + " recibió un ataque de " + atacante.getNombre() + ".");
+        System.out.println(objetivo.getNombre() + " obtuvo un daño de " + danio + ". Le queda " + objetivo.getAura() + " de aura.");
+
+        notificarObservadores(objetivo.getNombre() + " recibió un ataque de " + atacante.getNombre() + ".");
+        notificarObservadores(objetivo.getNombre() + " obtuvo un daño de " + danio + ". Le queda " + objetivo.getAura() + " de aura.");
+
+    }
+
+     /**
+     * Absorbe el poder actualmente equipado por el enemigo.
+     * La restriccion de franquicia (Korby solo puede tener poderes de su
+     * propia saga, MeganMan de la suya, etc.) ya se aplica al elegir los 3
+     * poderes base de cada personaje en su constructor; en combate, cualquier
+     * personaje que consume, derrota o ve a otro puede replicar el poder que
+     * ese enemigo tenia equipado en ese momento, sin importar su franquicia.
+     * @param atacante el personaje que absorberá el poder
+     * @param objetivo El personaje del cual se copiara el poder equipado
+     */
+    public void absorberPoder(Personaje atacante, Personaje objetivo){
+
+        if(atacante.getFranquicia().equalsIgnoreCase(objetivo.getFranquicia())){
+            atacante.setPoderEquipado(objetivo.getPoderEquipado());
+            System.out.println(atacante.getNombre() + " absorbió el poder de " + objetivo.getNombre() + ".");
+            notificarObservadores(atacante.getNombre() + " absorbió el poder de " + objetivo.getNombre() + ".");
+        } else{
+            System.out.println(atacante.getNombre() + " no puede absorber el poder de " + objetivo.getNombre() + ", pues no son de la misma franquicia.");
+            notificarObservadores(atacante.getNombre() + " no puede absorber el poder de " + objetivo.getNombre() + ", pues no son de la misma franquicia.");
+        }
+        
+    }
+
+    /**
+     * Realiza daño al enemigo y si su aura llega a cero, intenta absorber su poder
+     * @param atacante El personaje que atacará
+     * @param objetivo El personaje objetivo a atacar
+     */
+    public void ofensa(Personaje atacante, Personaje objetivo){
+        this.danioAEnemigo(atacante, objetivo);
+        if(objetivo.getAura()<= 0){
+            this.absorberPoder(atacante,objetivo);
+        }
+    }
+
+
+    /**
      * Condensa toda la logica de un ataque y elimina de la lista de peleadores
      * al personaje que recibe el daño si su vida se termina durante ese ataque.
      * 
@@ -43,9 +127,12 @@ public class Combate implements Sujeto {
      * @param objetivo El personaje que recibe el daño del ataque.
      */
     public void realizarAtaque(Personaje atacante, Personaje objetivo){
-        atacante.ofensa(objetivo);
+        this.ofensa(atacante,objetivo);
         if(objetivo.getAura()<=0){
             System.out.println("¡" + objetivo.getNombre() + " ha sido derrotado por " + atacante.getNombre() + "!");
+            System.out.println("¡FUERA AURA!");
+            notificarObservadores("¡" + objetivo.getNombre() + " ha sido derrotado por " + atacante.getNombre() + "!");
+            notificarObservadores("¡FUERA AURA");
         }
     }
 
@@ -98,7 +185,7 @@ public class Combate implements Sujeto {
         System.out.println("2...");
         System.out.println("1...");
         System.out.println("¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!");
-        notificarObservadores("y...¡ARRANCA LA PELEA, SSEÑORES Y SEÑORAS!");
+        notificarObservadores("y...¡ARRANCA LA PELEA, SEÑORES Y SEÑORAS!");
 
         int rondaActual = 1;
         while (rondaActual <= LIMITE_RONDAS) {
@@ -118,13 +205,11 @@ public class Combate implements Sujeto {
                     if (peleador.getAura() > 0 && !peleador.getPoderes().isEmpty()) {
                         int indice = (rondaActual - 2) % peleador.getPoderes().size();
                         Tupla<ObjetoEspecial, Poder> tupla = peleador.getPoderes().get(indice);
-                        peleador.recogerObjeto(tupla);
-                        notificarObservadores(peleador.getNombre() + " encontró " + tupla.getElemento1().getNombre()
-                            + " y ahora tiene " + tupla.getElemento2().getDescripcion());
+                        this.recogerObjeto(peleador,tupla);
                     }
                 }
             }
-            System.out.println("--- Ronda " + rondaActual + " ---");
+            System.out.println("\n--- Ronda " + rondaActual + " ---\n");
             notificarObservadores("--- Ronda " + rondaActual + " ---");
             ejecutarRonda();
             rondaActual++;
@@ -161,15 +246,6 @@ public class Combate implements Sujeto {
             }
 
             this.realizarAtaque(atacante,objetivo);
-
-            Poder poderAtacante = atacante.getPoderEquipado().getElemento2();
-            notificarObservadores(atacante.getNombre() + " atacó a " + objetivo.getNombre()
-                    + " usando su " + poderAtacante.getDescripcion());
-            notificarObservadores(objetivo.getNombre() + " le quedan " + objetivo.getAura() + " puntos de vida.");
-
-            if (objetivo.getAura() <= 0) {
-                notificarObservadores(objetivo.getNombre() + " ha sido derrotado, FUERA AURA.");
-            }
         }
     }
     

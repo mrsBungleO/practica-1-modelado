@@ -7,7 +7,7 @@ public class PoderAgua implements Poder{
     
     /** Descripción del poder de agua y sus efectos */
     public final String DESCRIPCION= "poder de agua: Dittu puede manipular grandes volumenes de agua provenientes" + 
-    "de Ecatepec para atacar y defenderse.";
+    " de Ecatepec para atacar y defenderse.";
 
     /** Valor de los puntos de ataque que otorga este poder */
     public final int ATAQUE= 18;
