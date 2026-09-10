@@ -59,7 +59,7 @@ public class Simulador{
 
         for (int i = 1; i <= 4; i++) {
             Personaje favorito = peleadores.get(random.nextInt(peleadores.size()));
-            EspectadorSimulado espectador = new EspectadorSimulado("espectador" + i, favorito);
+            EspectadorSimulado espectador = new EspectadorSimulado("espectador No: " + i, favorito);
             espectadores.add(espectador);
         }
     }

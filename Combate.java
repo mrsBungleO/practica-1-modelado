@@ -84,7 +84,7 @@ public class Combate implements Sujeto {
         }
     }
 
-    private static final int LIMITE_RONDAS = 20; 
+    private static final int LIMITE_RONDAS = 5; 
 
     /**
      * Da inicio a la simulacion del combate. Aqui es donde los

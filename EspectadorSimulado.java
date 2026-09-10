@@ -39,10 +39,10 @@ public class EspectadorSimulado implements Observador {
          */
         if (evento.contains("tenemos a un ganador")) {
             if (evento.contains(personajeFavorito.getNombre())) {
-                escribirEnBitacora("Mi personaje apoyado (" 
+                escribirEnBitacora("[" + idEspectador + "] Mi personaje apoyado (" 
                         + personajeFavorito.getNombre() + ") ha ganado el combate.");
             } else {
-                escribirEnBitacora("Mi personaje apoyado (" 
+                escribirEnBitacora("[" + idEspectador + "] Mi personaje apoyado (" 
                         + personajeFavorito.getNombre() + ") ha perdido su aura.");
             }
         }
