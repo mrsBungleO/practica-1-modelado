@@ -84,7 +84,7 @@ public class Combate implements Sujeto {
         }
     }
 
-    private static final int LIMITE_RONDAS = 5; 
+    private static final int LIMITE_RONDAS = 10; 
 
     /**
      * Da inicio a la simulacion del combate. Aqui es donde los
@@ -98,7 +98,7 @@ public class Combate implements Sujeto {
         System.out.println("2...");
         System.out.println("1...");
         System.out.println("¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!");
-        notificarObservadores("y...¡ARRANCA LA PELEA, SEÑORES Y SEÑORAS!");
+        notificarObservadores("y...¡ARRANCA LA PELEA, SSEÑORES Y SEÑORAS!");
 
         int rondaActual = 1;
         while (rondaActual <= LIMITE_RONDAS) {
@@ -186,8 +186,9 @@ public class Combate implements Sujeto {
         Personaje ganador = null;
         for (Personaje peleador : peleadores) {
             if (peleador.getAura() > 0) {
-                ganador = peleador;
-                break;
+                if (ganador == null || peleador.getAura() > ganador.getAura()) {
+                    ganador = peleador;
+                }
             }
         }
 

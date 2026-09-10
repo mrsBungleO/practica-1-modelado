@@ -136,19 +136,17 @@ public abstract class Personaje{
     }
 
     /**
-     * Absorbe el poder del enemigo si ambos pertenecen a la misma franquicia
-     * Si son de distintas franquicias, despliega un mensaje indicando que no es posible
-     * @param enemigo El personaje del cual se intentara copiar el poder
+     * Absorbe el poder actualmente equipado por el enemigo.
+     * La restriccion de franquicia (Korby solo puede tener poderes de su
+     * propia saga, MeganMan de la suya, etc.) ya se aplica al elegir los 3
+     * poderes base de cada personaje en su constructor; en combate, cualquier
+     * personaje que consume, derrota o ve a otro puede replicar el poder que
+     * ese enemigo tenia equipado en ese momento, sin importar su franquicia.
+     * @param enemigo El personaje del cual se copiara el poder equipado
      */
     public void absorberPoder(Personaje enemigo){
-        if(this.getFranquicia().equalsIgnoreCase(enemigo.getFranquicia())){
-            this.setPoderEquipado(enemigo.getPoderEquipado());
-            System.out.println(this.getNombre() + " absorbió el poder de " + enemigo.getNombre() + ".");
-        } else {
-            System.out.println(this.getNombre() + " no puede obtener el poder de " + enemigo.getNombre() + ", ya que no son" + 
-            " de la misma franquicia.");
-        }
-
+        this.setPoderEquipado(enemigo.getPoderEquipado());
+        System.out.println(this.getNombre() + " absorbió el poder de " + enemigo.getNombre() + ".");
     }
 
     /**
