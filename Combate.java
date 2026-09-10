@@ -98,7 +98,7 @@ public class Combate implements Sujeto {
         System.out.println("2...");
         System.out.println("1...");
         System.out.println("¡QUE COMIENCE EL COMBATE, A POR SUS AURAS!");
-        notificarObservadores("y...¡ARRANCA LA PELEA, SSEÑORES Y SEÑORAS!");
+        notificarObservadores("y...¡ARRANCA LA PELEA, SEÑORES Y SEÑORAS!");
 
         int rondaActual = 1;
         while (rondaActual <= LIMITE_RONDAS) {
