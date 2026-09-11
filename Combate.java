@@ -95,11 +95,13 @@ public class Combate implements Sujeto {
      */
     public void absorberPoder(Personaje atacante, Personaje objetivo){
 
-        if(atacante.esAbsorbido(objetivo)==1){
+        int resultado=atacante.esAbsorbido(objetivo);
+
+        if(resultado==1){
             notificarObservadores(atacante.getNombre() + " equipó el poder de " + objetivo.getNombre() + ".");
         }
 
-        if(atacante.esAbsorbido(objetivo)==0){
+        if(resultado==0){
             notificarObservadores(atacante.getNombre() + " intentó absorber el poder de " + objetivo.getNombre() + " pero no lo logró.");
         } else {
             
@@ -108,7 +110,7 @@ public class Combate implements Sujeto {
     }
 
     /**
-     * Realiza daño al enemigo y si su aura llega a cero, intenta absorber su poder
+     * Realiza daño al enemigo y trata de absorber o copiar su poder
      * @param atacante El personaje que atacará
      * @param objetivo El personaje objetivo a atacar
      */
