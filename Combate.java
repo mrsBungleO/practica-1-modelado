@@ -95,10 +95,14 @@ public class Combate implements Sujeto {
      */
     public void absorberPoder(Personaje atacante, Personaje objetivo){
 
-        if(atacante.esAbsorbido(objetivo)){
-            notificarObservadores(atacante.getNombre() + " absorbió/copió el poder de " + objetivo.getNombre() + ".");
-        } else{
-            notificarObservadores(atacante.getNombre() + " no puedo absorber el poder de " + objetivo.getNombre() + ", pues no son de la misma franquicia o porque aún no ha sido derrotado.");
+        if(atacante.esAbsorbido(objetivo)==1){
+            notificarObservadores(atacante.getNombre() + " equipó el poder de " + objetivo.getNombre() + ".");
+        }
+
+        if(atacante.esAbsorbido(objetivo)==0){
+            notificarObservadores(atacante.getNombre() + " intentó absorber el poder de " + objetivo.getNombre() + " pero no lo logró.");
+        } else {
+            
         }
         
     }
@@ -110,9 +114,7 @@ public class Combate implements Sujeto {
      */
     public void ofensa(Personaje atacante, Personaje objetivo){
         this.danioAEnemigo(atacante, objetivo);
-        if(objetivo.getAura()<= 0){
-            this.absorberPoder(atacante,objetivo);
-        }
+        this.absorberPoder(atacante,objetivo);
     }
 
 

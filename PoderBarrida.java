@@ -54,7 +54,7 @@ public class PoderBarrida implements Poder{
      */
     @Override
     public void atacar(Personaje enemigo){
-        System.out.println("¡MeganMan se barre en dirección a " + enemigo.getNombre() + "argumentando que fue al balón!");
+        System.out.println("¡MeganMan se barre en dirección a " + enemigo.getNombre() + " argumentando que fue al balón!");
     }
 
 }

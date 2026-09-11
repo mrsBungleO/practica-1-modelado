@@ -29,16 +29,16 @@ public class Dittu extends Personaje{
 
 
     @Override
-    public boolean esAbsorbido(Personaje enemigo){
+    public int esAbsorbido(Personaje enemigo){
         System.out.println("Dittu intenta copiar el poder de " + enemigo.getNombre());
         if(this.getFranquicia().equalsIgnoreCase(enemigo.getFranquicia())){
             this.setPoderEquipado(enemigo.getPoderEquipado());
             System.out.println("¡Dittu copió el poder de " + enemigo.getNombre()+ "!");;
             System.out.println("Dittu ahora tiene "+ enemigo.getPoderEquipado().getElemento2().getDescripcion() + ".");
-            return true;
+            return 1;
         } else{
-            System.out.println("Dittu no puede absorber el poder de " + enemigo.getNombre() + ", ya que no son de la misma franquicia.");
-            return false;
+            System.out.println("Dittu no puede copiar el poder de " + enemigo.getNombre() + ", ya que no son de la misma franquicia.");
+            return 0;
         }
     }
 }
