@@ -18,21 +18,48 @@ public class Combate implements Sujeto {
      */
     private List<Personaje> peleadores;
 
-    /**
+        /**
      * Lista de espectadores registrados que recibiran las actualizaciones
      * sobre los acontecimientos del combate.
      */
     private List<Observador> observadores;
 
     /**
+     * Cada cuantas rondas los peleadores recogen un nuevo objeto especial y
+     * cambian de poder equipado. Cada caso de prueba define su propio valor
+     * para lograr un ritmo de daño distinto.
+     */
+    private int frecuenciaRecoleccion;
+
+    /**
+     * Numero maximo de rondas que durara el combate antes de forzar un
+     * ganador segun el aura restante de cada peleador. Cada caso de prueba
+     * puede definir una duracion distinta para el enfrentamiento.
+     */
+    private int limiteRondas;
+
+    /**
+     * Generador de numeros aleatorios utilizado para decidir, en el momento
+     * en que un personaje recoge un objeto especial, cual de sus poderes
+     * disponibles obtiene.
+     */
+    private Random random;
+
+    /**
      * Inicializa un nuevo encuentro con los peleadores seleccionados y
      * prepara la estructura para recibir a la audiencia.
      *
-     * @param peleadores Lista con los personajes que participaran en la contienda.
+     * @param peleadores Lista con los personajes que participaran en la contienda,
+     *                   ya en el orden de turno con el que atacaran.
+     * @param frecuenciaRecoleccion Cada cuantas rondas se recoge un nuevo objeto especial.
+     * @param limiteRondas Numero maximo de rondas que durara el combate.
      */
-    public Combate(List<Personaje> peleadores) {
+    public Combate(List<Personaje> peleadores, int frecuenciaRecoleccion, int limiteRondas) {
         this.peleadores = peleadores;
         this.observadores = new ArrayList<>();
+        this.frecuenciaRecoleccion = frecuenciaRecoleccion;
+        this.limiteRondas = limiteRondas;
+        this.random = new Random();
     }
 
     /**
@@ -172,8 +199,6 @@ public class Combate implements Sujeto {
         }
     }
 
-    private static final int LIMITE_RONDAS = 10; 
-
     /**
      * Da inicio a la simulacion del combate. Aqui es donde los
      * personajes obtienen sus habilidades al azar, intercambian ataques,
@@ -189,7 +214,7 @@ public class Combate implements Sujeto {
         notificarObservadores("y...¡ARRANCA LA PELEA, SEÑORES Y SEÑORAS!");
 
         int rondaActual = 1;
-        while (rondaActual <= LIMITE_RONDAS) {
+        while (rondaActual <= this.limiteRondas) {
             int sobrevivientes = 0;
             for (Personaje peleador : peleadores) {
                 if (peleador.getAura() > 0) {
@@ -201,11 +226,11 @@ public class Combate implements Sujeto {
                 break;
             }
 
-            if (rondaActual > 1) {
+            if (rondaActual > 1 && (rondaActual - 1) % frecuenciaRecoleccion == 0) {
                 for (Personaje peleador : peleadores) {
                     if (peleador.getAura() > 0 && !peleador.getPoderes().isEmpty()) {
-                        int indice = (rondaActual - 2) % peleador.getPoderes().size();
-                        Tupla<ObjetoEspecial, Poder> tupla = peleador.getPoderes().get(indice);
+                        int indiceAleatorio = random.nextInt(peleador.getPoderes().size());
+                        Tupla<ObjetoEspecial, Poder> tupla = peleador.getPoderes().get(indiceAleatorio);
                         this.recogerObjeto(peleador,tupla);
                     }
                 }
