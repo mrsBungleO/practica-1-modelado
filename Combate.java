@@ -78,7 +78,7 @@ public class Combate implements Sujeto {
 
     /**
      * Hace que un personaje atacante realice un ataque hacia un personaje objetivo, calcula el daño recibido segun las
-     * estadisticas de ataque y defensa, reduce el aura del objetivo e imprime los datos del combate
+     * estadisticas de ataque y defensa, reduce el aura del objetivo e imprime  y notifica a los espectadores los datos del combate
      * @param atacante El personaje que realiza el ataque
      * @param objetivo El personaje que recibira el ataque
      */
@@ -112,11 +112,8 @@ public class Combate implements Sujeto {
 
      /**
      * Absorbe el poder actualmente equipado por el enemigo.
-     * La restriccion de franquicia (Korby solo puede tener poderes de su
-     * propia saga, MeganMan de la suya, etc.) ya se aplica al elegir los 3
-     * poderes base de cada personaje en su constructor; en combate, cualquier
-     * personaje que consume, derrota o ve a otro puede replicar el poder que
-     * ese enemigo tenia equipado en ese momento, sin importar su franquicia.
+     * La restriccion de franquicia ya se aplica en el método esAbsorbido y dependiendo del resultado que arroje para cada personaje
+     * será lo que se le notifique al espectador.
      * @param atacante el personaje que absorberá el poder
      * @param objetivo El personaje del cual se copiara el poder equipado
      */
