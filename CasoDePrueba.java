@@ -18,11 +18,6 @@ public class CasoDePrueba {
      */
     private String nombre;
 
-    /**
-     *  Breve descripcion de que hace distinto a este caso de los demas 
-     */
-    private String descripcion;
-
     /** 
      * Peleadores del caso, ya con sus condiciones iniciales ajustadas y en el orden de turno deseado
      */
@@ -42,15 +37,13 @@ public class CasoDePrueba {
      * Construye un nuevo caso de prueba con su guion ya definido
      *
      * @param nombre Nombre corto del caso de prueba
-     * @param descripcion Descripcion de que lo hace distinto a los demas casos
      * @param peleadores Peleadores participantes, en el orden de turno deseado
      * @param frecuenciaRecoleccion Cada cuantas rondas se recoge un nuevo objeto especial
      * @param limiteRondas Numero maximo de rondas del combate
      */
-    public CasoDePrueba(String nombre, String descripcion, List<Personaje> peleadores,
+    public CasoDePrueba(String nombre, List<Personaje> peleadores,
                          int frecuenciaRecoleccion, int limiteRondas) {
         this.nombre = nombre;
-        this.descripcion = descripcion;
         this.peleadores = peleadores;
         this.frecuenciaRecoleccion = frecuenciaRecoleccion;
         this.limiteRondas = limiteRondas;
@@ -62,14 +55,6 @@ public class CasoDePrueba {
      */
     public String getNombre() {
         return this.nombre;
-    }
-
-    /**
-     * Obtiene la descripcion de que hace distinto a este caso de prueba
-     * @return La descripcion del caso de prueba
-     */
-    public String getDescripcion() {
-        return this.descripcion;
     }
 
     /**

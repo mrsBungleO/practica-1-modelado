@@ -52,9 +52,7 @@ public class Simulador {
         peleadores1.add(korby1);
         peleadores1.add(new MeganMan());
         peleadores1.add(new Dittu());
-        casos.add(new CasoDePrueba(
-                "Ventaja de Korby",
-                "Korby inicia con aura extra y los 3 cambian de poder cada ronda: combate rapido e intenso.",
+        casos.add(new CasoDePrueba( "Ventaja de Korby",
                 peleadores1, 1, 10));
 
         // Caso 2: Dittu gana
@@ -64,9 +62,7 @@ public class Simulador {
         peleadores2.add(dittu2);
         peleadores2.add(new MeganMan());
         peleadores2.add(new Korby());
-        casos.add(new CasoDePrueba(
-                "Resistencia de Dittu",
-                "Dittu inicia con aura extra y los poderes cambian lento (cada 3 rondas): combate largo, de desgaste.",
+        casos.add(new CasoDePrueba( "Resistencia de Dittu",
                 peleadores2, 3, 10));
 
         // Caso 3: MeganMan gana
@@ -76,9 +72,7 @@ public class Simulador {
         peleadores3.add(meganMan3);
         peleadores3.add(new Korby());
         peleadores3.add(new Dittu());
-        casos.add(new CasoDePrueba(
-                "Golpe relampago de MeganMan",
-                "MeganMan inicia con aura extra y el combate se limita a pocas rondas: choque corto y contundente.",
+        casos.add(new CasoDePrueba( "Golpe relampago de MeganMan",
                 peleadores3, 1, 5));
 
         return casos;
